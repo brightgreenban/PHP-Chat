@@ -1,0 +1,103 @@
+body{
+    background-color: #032030;
+    font-family: "Microsoft Sans Serif";
+    font-weight: lighter;
+}
+
+.singInDeals{
+    width: 450px;
+    height: 550px;
+    background-color: #1794A5;
+    text-align: center;
+    margin: 150px auto 0px auto;
+    box-shadow: 0 -3px 0 #f9fffb;
+}
+
+.inputFields{
+    width: 220px;
+    height: 30px;
+    padding-left: 39px;
+    margin-bottom: 25px;
+    margin-top: 5px;
+    font-size: 18px;
+}
+
+#termsForm{
+    color: #ffffff;
+    font-size: 8px;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+.formInfo{
+    color: #ffffff;
+    font-size: 10px;
+}
+#formInfoLogin{
+    padding-top: 130px;
+}
+#formInfoSignUp{
+    padding-top: 45px;
+    text-decoration: none;
+}
+.termsText{
+    color: #032030;
+}
+
+.tittleText{
+    text-transform: uppercase;
+    font-size: 24px;
+    color: #ffffff;
+    padding-top: 70px;
+}
+
+.corporationText{
+    font-size: 14px;
+    color: #ffffff;
+    padding-top: 10px;
+    padding-bottom: 40px;
+
+}
+
+#logImg{
+    width: 22px;
+    height: 22px;
+    position: absolute;
+    padding: 9px 3px 0 7px;
+}
+
+#compImg{
+    width: 124px;
+    height: 124px;
+    position: absolute;
+    padding: 100px 0px 0px 290px;
+}
+
+#log, #pass{
+
+}
+
+#subButton{
+    height: 30px;
+    width: 220px;
+    border: none;
+    color: #ffffff;
+    background-color: #032030;
+    padding: 6px 30px;
+    margin: 5px 0 15px 0;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+#subButton:hover{
+    transition: all 0.75s;
+    color: rgb(49, 49, 49);
+    background: #f9fffb;
+}
+
+a{
+    color: #f9fffb;
+}
+
+a:hover{
+    text-decoration: none;
+}
